@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "パブリック",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-26T03:21:30.872724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パブリック・エネミー#1",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/01_パブリック・エネミー_1_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エレクトリック・パブリック - 全知全能 ver.",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/02_エレクトリック・パブリック_-_全知全能_ver._Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エレクトリック・パブリック (全知全能 ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/03_エレクトリック・パブリック_(全知全能_ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electric Public (Zenchi Zennou ver.) [エレクトリック・パブリック (全知全能 ver.)]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/04_Electric_Public_(Zenchi_Zennou_ver.)_[エレクトリック・パブリック_(全知全能_ver.)]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Electric Public [エレクトリック・パブリック]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/05_Electric_Public_[エレクトリック・パブリック]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エレクトリック・パブリック",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/06_エレクトリック・パブリック_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パブリック",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_パブリック_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エレクトリック・パブリック",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/08_エレクトリック・パブリック_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エレクトリック・パブリック（全知全能 Ver.）",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/09_エレクトリック・パブリック(全知全能_Ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パブリック - Public",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_パブリック_-_Public_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パブリック (Remastered 2020)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_パブリック_(Remastered_2020)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Erekutorikku Paburikku (エレクトリック・パブリック)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/12_Erekutorikku_Paburikku_(エレクトリック・パブリック)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "パブリック - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/13_パブリック_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パブリック",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_パブリック_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
